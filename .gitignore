@@ -1,0 +1,33 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore Markdown editor backup files
+*.md~
+*.markdown~
+*.bak
+
+# Ignore Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Windows system files
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Ignore Visual Studio Code workspace settings (if using VS Code)
+.vscode/
+
+# Ignore WSL-related temporary files
+*.swp
+
+# Ignore any other editor or IDE specific files
+.idea/
+*.sublime-*
+*.vscode/
